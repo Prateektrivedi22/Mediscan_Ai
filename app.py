@@ -122,7 +122,7 @@ Please provide:
 # Sidebar
 with st.sidebar:
     st.header("⚙️ Settings")
-    api_token=("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")
+    api_token=("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")
     #api_token = st.text_input("🔑 Hugging Face API Token", type="password", placeholder="hf_...")
     
     st.divider()
